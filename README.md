@@ -14,3 +14,4 @@ HTML · CSS · JavaScript · React · Node.js · Express · PostgreSQL
 
 ## Started
 May 2026
+Day 2: Completed TOP Prerequisites + Foundations Part 1 intro lessons
