@@ -14,4 +14,5 @@ HTML · CSS · JavaScript · React · Node.js · Express · PostgreSQL
 
 ## Started
 May 2026
-Day 2: Completed TOP Prerequisites + Foundations Part 1 intro lessons
+- Day 2: TOP Prerequisites + Foundations Part 1 reading complete
+- Day 3: Git Basics — init, commit, push practice
