@@ -16,3 +16,4 @@ HTML · CSS · JavaScript · React · Node.js · Express · PostgreSQL
 May 2026
 - Day 2: TOP Prerequisites + Foundations Part 1 reading complete
 - Day 3: Git Basics — init, commit, push practice
+- Day 4: HTML Foundations: Boilerplate built from memory.
