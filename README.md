@@ -17,4 +17,5 @@ May 2026
 - Day 2: TOP Prerequisites + Foundations Part 1 reading complete
 - Day 3: Git Basics: init, commit, push practice
 - Day 4: HTML Foundations: Boilerplate built from memory.
-- Day 5: Working with Text, Lists, Links and Images. The About Me page built and deployed.SSS
+- Day 5: Working with Text, Lists, Links and Images. The About Me page built and deployed.
+- Day 6: TOP Commit Messages lesson + Recipes Project started
